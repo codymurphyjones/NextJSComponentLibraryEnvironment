@@ -1,0 +1,16 @@
+{
+  "name": "nextjscomponentlibraryenvironment",
+  "version": "1.0.0",
+  "description": "An environment to simplify the creation of a React based UI component library",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "Cody Jones",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
